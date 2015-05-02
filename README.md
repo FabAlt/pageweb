@@ -1,3 +1,5 @@
+![Logo Fabriques Alternatives](images/fabalt-400.png)
+
 # Page web Fabriques Alternatives
 
 Fabriques Alternatives, association pour soutenir le développement de FabLabs dans les Landes.
