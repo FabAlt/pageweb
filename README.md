@@ -2,7 +2,7 @@
 
 # Page web Fabriques Alternatives
 
-Fabriques Alternatives, association pour soutenir le développement de FabLabs dans les Landes.
+Fabriques Alternatives, association de Makers dans les Landes.
 Développement en cours d'un FabLab sur Mont-de-Marsan.
 
 Code adapté with love par **Frédéric "Couby" Coubard**.
